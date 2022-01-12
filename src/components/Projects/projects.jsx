@@ -64,7 +64,7 @@ const TimeLine = () => {
                 </p>
                 <div>
                   <a
-                    href="https://github.com/mansisindhu/seva-the-food-sharing-frontend"
+                    href="https://github.com/tejshreebgund/Seva-the-food.git"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
